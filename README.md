@@ -1,6 +1,6 @@
 # This Gem is no longer maintained
 
-**Consider [annotate_rb](https://github.com/drwl/annotaterb)** for an actively maintained alternative.
+**Consider [annotaterb](https://github.com/drwl/annotaterb)** for an actively maintained alternative.
 
 ## Annotate (aka AnnotateModels)
 
