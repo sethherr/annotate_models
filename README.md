@@ -1,3 +1,7 @@
+# This Gem is no longer maintained
+
+**Consider [annotate_rb](https://github.com/drwl/annotaterb)** for an actively maintained alternative.
+
 ## Annotate (aka AnnotateModels)
 
 [![Gem Version](https://badge.fury.io/rb/annotate.svg)](http://badge.fury.io/rb/annotate)
@@ -5,6 +9,8 @@
 [![CI Status](https://github.com/ctran/annotate_models/workflows/CI/badge.svg)](https://github.com/ctran/annotate_models/actions?workflow=CI)
 [![Coveralls](https://coveralls.io/repos/ctran/annotate_models/badge.svg?branch=develop)](https://coveralls.io/r/ctran/annotate_models?branch=develop)
 [![Maintenability](https://codeclimate.com/github/ctran/annotate_models/badges/gpa.svg)](https://codeclimate.com/github/ctran/annotate_models)
+
+
 
 Add a comment summarizing the current schema to the top or bottom of each of your...
 
